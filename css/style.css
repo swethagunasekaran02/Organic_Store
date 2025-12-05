@@ -539,7 +539,7 @@ button:hover {
 }
 
 .largeimg {
-    background-image: url('../image/bg2.png');
+    background-image: url('image/bg2.png');
     text-align: center;
     position: relative;
 
@@ -913,7 +913,7 @@ p a {
 }
 
 .container4 {
-    background-image: url('../image/offer5.png');
+    background-image: url('image/offer5.png');
     background-repeat: no-repeat;
     display: flex;
     justify-content: space-around;
